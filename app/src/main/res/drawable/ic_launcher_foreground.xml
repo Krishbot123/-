@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document body with folded top-right corner, centered inside 66dp safe zone (x: 31..77, y: 26..82) -->
+    <path
+        android:fillColor="#FFFFFBEB"
+        android:pathData="M36,27 L62,27 L75,40 L75,77 C75,79.76 72.76,82 70,82 L36,82 C33.24,82 31,79.76 31,77 L31,32 C31,29.24 33.24,27 36,27 Z" />
+    <!-- Folded corner accent in warm amber -->
+    <path
+        android:fillColor="#FFF59E0B"
+        android:pathData="M62,27 L62,36 C62,38.21 63.79,40 66,40 L75,40 Z" />
+    <!-- Text lines representing structured teacher formats -->
+    <path
+        android:fillColor="#FF0F4C5C"
+        android:pathData="M38,48 L67,48 L67,52.5 L38,52.5 Z" />
+    <path
+        android:fillColor="#FF0F4C5C"
+        android:pathData="M38,57 L67,57 L67,61.5 L38,61.5 Z" />
+    <path
+        android:fillColor="#FF0F4C5C"
+        android:pathData="M38,66 L55,66 L55,70.5 L38,70.5 Z" />
+    <!-- Official amber seal badge at bottom-right of sheet -->
+    <path
+        android:fillColor="#FFD97706"
+        android:pathData="M66,64 A9,9 0 1,1 65.99,64 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M62.2,72.8 L64.8,75.4 L70.2,70 L71.8,71.6 L64.8,78.6 L60.6,74.4 Z" />
+</vector>
